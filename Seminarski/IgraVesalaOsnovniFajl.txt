@@ -1,0 +1,30 @@
+LOPTA
+5
+Deca vole da se igraju sa njom!
+KAMELEON
+8
+Zivotinja koja menja boje!
+KOMPJUTER
+9
+Sta trenutno koristis?
+SUNCOKRET
+9
+Raste i okrece se ka suncu!
+BIBLIOTEKA
+10
+Mesto gde se nalazi puno knjiga!
+PLANINA
+7
+Najvislja na svetu je Everest!
+REKA
+4
+Nije jezero nego?
+OLOVKA
+6
+Hemijska, tehnicka, grafitna...
+SLON
+4
+Koja se zivotinja plasi misa?
+NOVCANIK
+8
+Gde se novac i kartice drze?
